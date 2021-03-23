@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/miItem1"
+        android:title="Müşteriler"
+        
+        />
+    <item android:id="@+id/m2Item2"
+        android:title="Ürün/Stok Bilgisi"
+        />
+    <item android:id="@+id/m3Item3"
+        android:title="Siparişler"
+        />
+    <item android:id="@+id/m4Item4"
+        android:title="Raporlar"
+       />
+    <item android:id="@+id/logout"
+        android:title="Çıkış Yap"
+        />
+
+
+
+</menu>

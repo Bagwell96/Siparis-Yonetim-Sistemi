@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283634885445",
+    "project_id": "orders-3e322",
+    "storage_bucket": "orders-3e322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283634885445:android:dc1c655df700314a05542c",
+        "android_client_info": {
+          "package_name": "com.mertkavrayici.ordertrackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283634885445-pc6lcffkq26r8ov81sj3ed3chjmnd8c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKI1hbYChMHoJ2nRIynEZP_IWGYlVkEcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283634885445-pc6lcffkq26r8ov81sj3ed3chjmnd8c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
